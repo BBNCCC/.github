@@ -1,4 +1,4 @@
-# BNCC — Assignment Repository
+# BNCC - Assignment Repository
 
 Collection of assignments, mini projects, and challenge submissions from BNCC training programs.
 
@@ -6,7 +6,7 @@ Collection of assignments, mini projects, and challenge submissions from BNCC tr
 
 ## Repositories
 
-### Rolling Week — R&D Division
+### Rolling Week - R&D Division
 
 | Repo | Stack | Description |
 |------|-------|-------------|
@@ -31,6 +31,6 @@ Collection of assignments, mini projects, and challenge submissions from BNCC tr
 
 ## Programs
 
-- **TPM (Training Program Member)** — weekly frontend mini projects covering core web fundamentals
-- **Rolling Week** — intensive full-stack project sprint for the R&D division
-- **Tech Challenge** — annual competitive challenge for BNCC members
+- **TPM (Training Program Member)** weekly frontend mini projects covering core web fundamentals
+- **Rolling Week** intensive full-stack project sprint for the R&D division
+- **Tech Challenge** annual competitive challenge for BNCC members
