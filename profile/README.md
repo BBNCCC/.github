@@ -27,6 +27,12 @@ Collection of assignments, mini projects, and challenge submissions from BNCC tr
 |------|-------|-------------|
 | [Andrian_Pratama_TechChallenge_Frontend_02](https://github.com/BBNCCC/Andrian_Pratama_TechChallenge_Frontend_02) | HTML | TechChallenge BNCC 2026 |
 
+### React Challenge
+
+| Repo | Stack | Description |
+|------|-------|-------------|
+| [React_WEEK_1](https://github.com/BBNCCC/React_Week_1) | React, HTML, Tailwind, Jacascript | React Challenge BNCC 2026 |
+
 ---
 
 ## Programs
